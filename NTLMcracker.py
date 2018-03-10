@@ -83,7 +83,7 @@ if __name__ == "__main__":
         "10": Cracker.ALPHA_UPPER_PUNCTUATION,
         "11": Cracker.ALPHA_MIXED_PUNCTUATION,
         "12": Cracker.NUMERIC_PUNCTUATION,
-        
+        "13": Cracker.ALPHA_MIXED_NUMERIC_PUNCTUATION
     }
 
     hashes = {
